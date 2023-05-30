@@ -5,6 +5,8 @@ entries:
         url: mailto:leandro.nishijima@gmail.com
       - title: github
         url: http://github.com/leandronishijima/
+      - title: linkedin
+        url: https://www.linkedin.com/in/leandronishijima/
 
   - title: posts
     post_list: true
