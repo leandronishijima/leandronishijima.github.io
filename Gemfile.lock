@@ -11,7 +11,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.23.1-arm64-darwin)
+    google-protobuf (3.23.2-arm64-darwin)
     http_parser.rb (0.8.0)
     i18n (1.13.0)
       concurrent-ruby (~> 1.0)
@@ -52,10 +52,10 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    no-style-please (0.1.0)
-      jekyll (~> 4.1)
-      jekyll-feed (~> 0.14)
-      jekyll-seo-tag (~> 2.6)
+    no-style-please (0.4.7)
+      jekyll (~> 3.9.0)
+      jekyll-feed (~> 0.15.1)
+      jekyll-seo-tag (~> 2.7.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.1)
@@ -74,6 +74,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-22
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
