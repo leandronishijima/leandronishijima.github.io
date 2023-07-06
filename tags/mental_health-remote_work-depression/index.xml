@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on leandro nishijima</title>
-    <link>https://leandronishijima.github.io/posts/</link>
-    <description>Recent content in Posts on leandro nishijima</description>
+    <title>mental_health, remote_work, depression on leandro nishijima</title>
+    <link>https://leandronishijima.github.io/tags/mental_health-remote_work-depression/</link>
+    <description>Recent content in mental_health, remote_work, depression on leandro nishijima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Leandro Nishijima</copyright>
-    <lastBuildDate>Thu, 06 Jul 2023 18:17:32 -0300</lastBuildDate><atom:link href="https://leandronishijima.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 18:17:32 -0300</lastBuildDate><atom:link href="https://leandronishijima.github.io/tags/mental_health-remote_work-depression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Regarding remote work, developers, depression, and dopamine</title>
       <link>https://leandronishijima.github.io/posts/regarding_remote_work_developers_depression_and_dopamine/</link>
@@ -17,19 +17,6 @@
       <description>A somewhat eye-catching title, but for a good reason.
 This text intends to help someone, make someone relate to it, and empower them to take control of their emotions, professional and personal life, and seek professional help when necessary.
 First of all, I wanted to give you a little context about myself: I started working as a programmer around 2011. Initially as a Java developer in a small company in my hometown, in a small office located on the second floor in the city center.</description>
-    </item>
-    
-    <item>
-      <title>Hello world</title>
-      <link>https://leandronishijima.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 30 May 2023 15:22:55 -0300</pubDate>
-      
-      <guid>https://leandronishijima.github.io/posts/hello-world/</guid>
-      <description>Hello, world.
-Just like in programming languages, I start this blog as everything should start: Hello world. Here will be a place where I can post ideas or words I would like to keep.
-Don&amp;rsquo;t expect anything extraordinary here, just random ideas about any subject. No commitment and no specific theme.
-Well, the first step I&amp;rsquo;ve taken. Now, what lies ahead?
-Ah, I almost forgot, my name is Leandro, and I&amp;rsquo;m a Software Engineer.</description>
     </item>
     
   </channel>
